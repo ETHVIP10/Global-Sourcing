@@ -35,7 +35,7 @@ document.getElementById("connectWallet").onclick = async () => {
 };
 
 document.getElementById("joinTelegram").onclick = () => {
-  window.open("https://t.me/ETHVIP999", "_blank");
+  window.open("https://t.me/ETHVIP_10", "_blank");
 };
 
 // 星空背景
